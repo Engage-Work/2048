@@ -512,6 +512,14 @@ hr {
   display: block;
   clear: both; }
 
+.edition {
+  margin: -8px 0 12px;
+  font-size: 12px;
+  font-weight: bold;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: #bbada0; }
+
 .game-intro {
   float: left;
   line-height: 42px;
